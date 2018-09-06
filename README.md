@@ -1,5 +1,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-toolsmith/astinfo)](https://goreportcard.com/report/github.com/go-toolsmith/astinfo)
 [![GoDoc](https://godoc.org/github.com/go-toolsmith/astinfo?status.svg)](https://godoc.org/github.com/go-toolsmith/astinfo)
+[![Build Status](https://travis-ci.org/go-toolsmith/astinfo.svg?branch=master)](https://travis-ci.org/go-toolsmith/astinfo)
 
 
 # astinfo
