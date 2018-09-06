@@ -1,3 +1,4 @@
+// Package astinfo records useful AST information like node parents and such.
 package astinfo
 
 import (
