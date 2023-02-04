@@ -5,7 +5,7 @@
 [![reportcard-img]][reportcard-url]
 [![version-img]][version-url]
 
-Package astinfo records useful AST information like node parents and such.
+Package `astinfo` records useful AST information like node parents and such.
 
 ## Installation:
 
