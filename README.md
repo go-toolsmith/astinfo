@@ -3,7 +3,6 @@
 [![build-img]][build-url]
 [![pkg-img]][pkg-url]
 [![reportcard-img]][reportcard-url]
-[![coverage-img]][coverage-url]
 [![version-img]][version-url]
 
 Package astinfo records useful AST information like node parents and such.
@@ -62,7 +61,5 @@ func main() {
 [pkg-url]: https://pkg.go.dev/github.com/go-toolsmith/astinfo
 [reportcard-img]: https://goreportcard.com/badge/go-toolsmith/astinfo
 [reportcard-url]: https://goreportcard.com/report/go-toolsmith/astinfo
-[coverage-img]: https://codecov.io/gh/go-toolsmith/astinfo/branch/main/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/go-toolsmith/astinfo
 [version-img]: https://img.shields.io/github/v/release/go-toolsmith/astinfo
 [version-url]: https://github.com/go-toolsmith/astinfo/releases
