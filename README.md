@@ -1,13 +1,15 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/go-toolsmith/astinfo)](https://goreportcard.com/report/github.com/go-toolsmith/astinfo)
-[![GoDoc](https://godoc.org/github.com/go-toolsmith/astinfo?status.svg)](https://godoc.org/github.com/go-toolsmith/astinfo)
-[![Build Status](https://travis-ci.org/go-toolsmith/astinfo.svg?branch=master)](https://travis-ci.org/go-toolsmith/astinfo)
-
-
 # astinfo
 
-Package astinfo records useful AST information like node parents and such.
+[![build-img]][build-url]
+[![pkg-img]][pkg-url]
+[![reportcard-img]][reportcard-url]
+[![version-img]][version-url]
+
+Package `astinfo` records useful AST information like node parents and such.
 
 ## Installation:
+
+Go version 1.16+
 
 ```bash
 go get github.com/go-toolsmith/astinfo
@@ -48,3 +50,16 @@ func main() {
 	// *ast.ExprStmt
 }
 ```
+
+## License
+
+[MIT License](LICENSE).
+
+[build-img]: https://github.com/go-toolsmith/astinfo/workflows/build/badge.svg
+[build-url]: https://github.com/go-toolsmith/astinfo/actions
+[pkg-img]: https://pkg.go.dev/badge/go-toolsmith/astinfo
+[pkg-url]: https://pkg.go.dev/github.com/go-toolsmith/astinfo
+[reportcard-img]: https://goreportcard.com/badge/go-toolsmith/astinfo
+[reportcard-url]: https://goreportcard.com/report/go-toolsmith/astinfo
+[version-img]: https://img.shields.io/github/v/release/go-toolsmith/astinfo
+[version-url]: https://github.com/go-toolsmith/astinfo/releases
